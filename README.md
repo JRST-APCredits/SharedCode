@@ -1,4 +1,4 @@
-This repository contains the codes for the JRST-AP Skip Project (Fischer et al., in press)
+This repository contains the codes for the JRST-AP Skip Project (Fischer et al., under review)
 [To do: add paper's citation]
 
 ## Goals of the project
